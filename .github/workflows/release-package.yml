@@ -20,7 +20,7 @@ jobs:
         with:
           node-version: 14
           registry-url: https://npm.pkg.github.com/
-          scope: '@jamesyong-42'
+          scope: '@jamesyong-42/three-j'
       - name: configure git
         run: |
           git config user.email "me@jamesyong42.com"
