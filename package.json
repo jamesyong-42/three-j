@@ -1,6 +1,6 @@
 {
   "name": "@jamesyong-42/three-j",
-  "version": "0.133.3",
+  "version": "0.133.4",
   "description": "JavaScript 3D library",
   "main": "build/three.js",
   "module": "build/three.module.js",
