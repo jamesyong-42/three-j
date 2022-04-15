@@ -5,7 +5,7 @@
   "main": "build/three.js",
   "module": "build/three.module.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@jamesyong-42"
+    "registry": "https://npm.pkg.github.com"
   },
   "sideEffects": false,
   "files": [
